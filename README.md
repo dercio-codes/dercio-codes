@@ -69,6 +69,16 @@
 
 </div>
 
+
+<div align="center">
+    <h2>
+ Contributions on Github
+
+</h2>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derciomaduna-codes&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+
+
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Music Production 🎹 and SongWriting 🖊️ .
