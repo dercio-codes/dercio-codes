@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=derciomaduna-codes&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=derciomaduna-codes&style=for-the-badge&color=blue" alt=""/>
   <h3>
 - 🔭 I’m currently working on ... 
     <a href="https://xbox-clone-bpyjaphyr-dercio-code.vercel.app">
