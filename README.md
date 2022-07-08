@@ -17,13 +17,14 @@
 </div>
 ---
 <img src="https://komarev.com/ghpvc/?username=derciomaduna-codes&style=for-the-badge&color=blue" alt=""/>
+  <br/>
 - 🔭 I’m currently working on ... 
     <a href="https://xbox-clone-bpyjaphyr-dercio-code.vercel.app">
     Xbox - Clone.
     </a>
- 
+ <br/>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-
+<br/>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
