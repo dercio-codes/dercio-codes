@@ -25,10 +25,10 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="" />
   
   <br/>
-  <h4>
+  <h2>
  👨‍💻: About Me :
 
-</h4>
+</h2>
 
 
  🔭 I’m currently working on <a href="https://xbox-clone-bpyjaphyr-dercio-code.vercel.app">
@@ -53,6 +53,10 @@
 ---
  
 <div align="center">
+    <h2>
+ 💻 Tech Stack :
+
+</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
