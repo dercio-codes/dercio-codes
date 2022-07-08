@@ -1,5 +1,5 @@
 <!-- ### Hi there My Name is Dercio Maduna and I am a Software Engineer. 👋 -->
-<div align="center" >
+<!-- <div align="center" > -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
@@ -15,17 +15,27 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
----
+  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=derciomaduna-codes&style=for-the-badge&color=blue" alt=""/>
-  <br/>
-- 🔭 I’m currently working on ... 
-    <a href="https://xbox-clone-bpyjaphyr-dercio-code.vercel.app">
+
+</div>
+
+---
+
+### 👨‍💻: About Me :
+
+  <div align="start">
+
+- 🔭 I’m currently working on <a href="https://xbox-clone-bpyjaphyr-dercio-code.vercel.app">
     Xbox - Clone.
     </a>
- <br/>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-<br/>
-<div>
+ 
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+
+</div>
+
+  
+<div align="start">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,9 +47,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; -->
+<!-- </div> -->
+
+  
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)  
 </div>
 
-</div>
 <!--
 **derciomaduna-codes/derciomaduna-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
