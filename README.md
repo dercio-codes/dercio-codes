@@ -31,8 +31,8 @@
 </h2>
 
 
- 🔭 I’m currently working on <a href="/#">
-    Atomus Landing Page
+ 🔭 I’m currently working on <a href="https://coming-soon-landing-page-two.vercel.app/">
+    Atomus Devs - Landing Page
     </a>
  
  Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇿🇦.
