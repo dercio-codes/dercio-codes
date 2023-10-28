@@ -79,9 +79,9 @@
 
 </h2>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derciomaduna-codes&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dercio-codes&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derciomaduna-codes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dercio-codes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
