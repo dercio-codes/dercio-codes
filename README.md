@@ -31,13 +31,13 @@
 </h2>
 
 
- 🔭 I’m currently working on <a href="https://atomusdev.co.za">
-    Atomus Devs - Landing Page
+ 🔭 I’m currently working on <a href="https://ufs-virtual-web.vercel.app">
+    UFS VIRTUAL CLINIC 
     </a>
  
  Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇿🇦.
   
- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ :telescope: I’m studying as a Software Engineer at ALX and contributing to frontend and backend for building web applications.
 
  :seedling: Exploring Music Production 🎹 and SongWriting 🖊️ .
 
